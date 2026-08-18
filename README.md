@@ -1,2 +1,2 @@
 # my-coding-journey
-UPSC+Coding notes 
+UPSC+Coding journey of Anshika Yadav 
